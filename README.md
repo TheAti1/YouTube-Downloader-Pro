@@ -2,7 +2,7 @@
 
 An advanced YouTube video, audio, playlist, and subtitle downloader application with a modern interface and robust backend. Built on Node.js, Express, Socket.io, and powered by yt-dlp/ffmpeg.
 
-![YouTube Downloader Pro](public/logo-placeholder.png) <!-- You can add a screenshot of the project here -->
+![YouTube Downloader Pro](docs/logo-placeholder.png) <!-- You can add a screenshot of the project here -->
 
 ## 🌟 Features
 
